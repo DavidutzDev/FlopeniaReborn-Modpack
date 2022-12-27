@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ARA",
+    "RCR",
+    "ARA"
+  ],
+  "key": {
+    "C": {
+      "item": "ftbic:electronic_circuit"
+    },
+    "A": {
+      "tag": "forge:ingots/aluminium"
+    },
+    "R": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "pixelmon:healer",
+    "count": 1
+  }
+}

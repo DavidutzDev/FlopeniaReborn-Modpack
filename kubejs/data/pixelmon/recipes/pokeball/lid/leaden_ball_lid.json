@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "# #"
+  ],
+  "key": {
+    "X": {
+      "item": "pixelmon:black_tumblestone"
+    },
+    "#": {
+      "item": "thermal:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "pixelmon:leaden_ball_lid",
+    "count": 3
+  }
+}

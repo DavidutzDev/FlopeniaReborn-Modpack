@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BIL",
+    "xIx",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "I": {
+      "item": "thermal:silver_ingot"
+    },
+    "x": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "pixelmon:poke_ball"
+    },
+    "L": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "item": "pixelmon:poke_display",
+    "count": 1
+  }
+}

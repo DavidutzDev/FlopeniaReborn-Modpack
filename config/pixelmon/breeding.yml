@@ -1,0 +1,11 @@
+allow-breeding: true
+allow-ditto-ditto-breeding: false
+allow-random-breeding-eggs-to-be-legendary: false
+allow-random-breeding-eggs-to-be-mythic: false
+allow-random-breeding-eggs-to-be-ultrabeast: false
+breeding-ticks: 18000
+num-breeding-levels: 5
+oval-charm-multiplier: 0.5
+steps-per-egg-cycle: 255
+use-breeding-environment: true
+default-day-care-amount: 3
